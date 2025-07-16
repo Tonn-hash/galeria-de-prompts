@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "name": "Moon Double Exposure",
+    "description": "A surreal double exposure portrait with a moonlit landscape.",
+    "image": "/images/moon-double-exposure.jpg",
+    "category": "Surreal",
+    "isPremium": true
+  },
+  {
+    "id": 2,
+    "name": "Magician Cards",
+    "description": "A close-up of a magician's hands shuffling a deck of cards.",
+    "image": "/images/magician-cards.jpg",
+    "category": "Fantasy",
+    "isPremium": true
+  },
+  {
+    "id": 3,
+    "name": "Golden Sparkle Portrait",
+    "description": "A portrait of a woman with golden sparkles illuminating her face.",
+    "image": "/images/golden-sparkle-portrait.jpg",
+    "category": "Portrait",
+    "isPremium": true
+  },
+  {
+    "id": 4,
+    "name": "Paris Headphones",
+    "description": "A person wearing headphones with the Eiffel Tower in the background.",
+    "image": "/images/paris-headphones.jpg",
+    "category": "Travel",
+    "isPremium": true
+  },
+  {
+    "id": 5,
+    "name": "Dark Tech Portrait",
+    "description": "A futuristic portrait with dark tones and technological elements.",
+    "image": "/images/dark-tech-portrait.jpg",
+    "category": "Sci-Fi",
+    "isPremium": true
+  },
+  {
+    "id": 6,
+    "name": "Apocalyptic Double Exposure",
+    "description": "A double exposure image combining a portrait with an apocalyptic city scene.",
+    "image": "/images/apocalyptic-double-exposure.jpg",
+    "category": "Surreal",
+    "isPremium": true
+  },
+  {
+    "id": 7,
+    "name": "Instagram 3D Mockup",
+    "description": "A 3D rendering of an Instagram interface with a vibrant image.",
+    "image": "/images/instagram-3d-mockup.jpg",
+    "category": "Mockup",
+    "isPremium": true
+  },
+  {
+    "id": 8,
+    "name": "Luxury Car Headphones",
+    "description": "Headphones placed on the dashboard of a luxury car.",
+    "image": "/images/luxury-car-headphones.jpg",
+    "category": "Product",
+    "isPremium": true
+  },
+  {
+    "id": 9,
+    "name": "Casual Headphones Outdoor",
+    "description": "A person wearing headphones in a casual outdoor setting.",
+    "image": "/images/casual-headphones-outdoor.jpg",
+    "category": "Lifestyle",
+    "isPremium": true
+  },
+  {
+    "id": 10,
+    "name": "Nike Work Smart Poster",
+    "description": "A motivational poster with Nike branding and a 'Work Smart' theme.",
+    "image": "/images/nike-work-smart-poster.jpg",
+    "category": "Advertising",
+    "isPremium": true
+  },
+  {
+    "id": 11,
+    "name": "Abstract Geometric",
+    "description": "An abstract composition with geometric shapes and vibrant colors.",
+    "image": "/images/517001315_1934336573772677_1765669334582246797_n.jpg",
+    "category": "Abstract",
+    "isPremium": true
+  },
+  {
+    "id": 12,
+    "name": "Cyberpunk Cityscape",
+    "description": "A futuristic city skyline with neon lights and towering structures.",
+    "image": "/images/386cbb21-8bf4-49e4-a4fe-1e795e170836.jpeg",
+    "category": "Sci-Fi",
+    "isPremium": true
+  },
+  {
+    "id": 13,
+    "name": "Mystical Forest Path",
+    "description": "A serene path winding through a mystical, fog-laden forest.",
+    "image": "/images/assets_task_01jzsqwqm0f5rtg885hec34fr4_1752136918_img_0.jpeg",
+    "category": "Nature",
+    "isPremium": true
+  },
+  {
+    "id": 14,
+    "name": "Vintage Car Sunset",
+    "description": "A classic car parked against a beautiful sunset backdrop.",
+    "image": "/images/515516085_2546905025661255_7729108186455065136_n.jpg",
+    "category": "Automotive",
+    "isPremium": true
+  },
+  {
+    "id": 15,
+    "name": "Underwater City",
+    "description": "An imaginative city submerged beneath the ocean waves.",
+    "image": "/images/assets_task_01jzrp8y8zfwptw56f8y3zphx1_1752101691_img_0.jpeg",
+    "category": "Fantasy",
+    "isPremium": true
+  },
+  {
+    "id": 16,
+    "name": "Minimalist Product Display",
+    "description": "A clean and minimalist setup for showcasing a product.",
+    "image": "/images/514459360_671263249276756_4704766120373328215_n.jpg",
+    "category": "Product",
+    "isPremium": true
+  },
+  {
+    "id": 17,
+    "name": "Futuristic Architecture",
+    "description": "Modern and sleek architectural design with futuristic elements.",
+    "image": "/images/07fb742a-5639-4e31-afab-d7028a15cdcc.jpeg",
+    "category": "Architecture",
+    "isPremium": true
+  },
+  {
+    "id": 18,
+    "name": "Neon City Night",
+    "description": "A vibrant cityscape at night, illuminated by neon lights.",
+    "image": "/images/assets_task_01jzv4vg2centajgdh9506wj7w_1752184108_img_0.jpeg",
+    "category": "Cityscape",
+    "isPremium": true
+  },
+  {
+    "id": 19,
+    "name": "Abstract Light Trails",
+    "description": "Dynamic light trails creating an abstract and energetic composition.",
+    "image": "/images/fc75ea30-a6ac-49fc-8062-0c5c8055fc35.jpeg",
+    "category": "Abstract",
+    "isPremium": true
+  },
+  {
+    "id": 20,
+    "name": "Vintage Sci-Fi Poster",
+    "description": "A retro-futuristic poster design with a classic sci-fi feel.",
+    "image": "/images/b02fac83-89be-4455-9b34-b57733387ce0.jpeg",
+    "category": "Vintage",
+    "isPremium": true
+  },
+  {
+    "id": 21,
+    "name": "Dreamy Landscape",
+    "description": "A serene and dreamy landscape with soft colors and ethereal lighting.",
+    "image": "/images/77fd3560-c21c-43db-adfe-51869a695bdf.jpeg",
+    "category": "Nature",
+    "isPremium": true
+  }
+]
